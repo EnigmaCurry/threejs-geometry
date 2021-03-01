@@ -31,7 +31,7 @@
     "prob.js": "^1.0.6",
     "promise-worker": "^2.0.0",
     "random-js": "^1.0.8",
-    "three": "^0.97.0",
+    "three": "^0.125.0",
     "three.textsprite": "^19.0.0",
     "underscore": "^1.9.1",
     "visibilityjs": "^2.0.2",
