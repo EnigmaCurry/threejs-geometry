@@ -33,7 +33,7 @@
     "random-js": "^1.0.8",
     "three": "^0.97.0",
     "three.textsprite": "^19.0.0",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "visibilityjs": "^2.0.2",
     "vue-threejs": "^0.1.1",
     "vuetify": "^1.2.4"
