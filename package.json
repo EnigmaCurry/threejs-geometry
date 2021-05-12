@@ -24,7 +24,7 @@
     "fullscreen-api-polyfill": "^1.1.2",
     "imports-loader": "^0.8.0",
     "material-design-iconic-font": "^2.2.0",
-    "mathjs": "^5.2.3",
+    "mathjs": "^7.5.1",
     "nunjucks": "^3.1.7",
     "nuxt": "^2.0.0",
     "oimo": "^1.0.9",
